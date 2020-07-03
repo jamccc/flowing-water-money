@@ -1,11 +1,11 @@
 <template>
-  <div>money</div>
+    <div>money</div>
 </template>
 
 <script lang="ts">
-export default {
-  name: 'Money'
-}
+    export default {
+        name: 'Money'
+    };
 </script>
 
 <style lang="scss" scoped>
