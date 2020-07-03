@@ -1,8 +1,12 @@
 <template>
-    <div>labels</div>
+    <div>
+        <Hello/>
+    </div>
+
 </template>
 
 <script lang="ts">
+
     export default {
         name: 'Labels'
     };
